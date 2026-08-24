@@ -1,16 +1,20 @@
-# studyflow
+# StudyFlow
 
-A new Flutter project.
+StudyFlow is a student productivity SaaS mobile application built with Flutter.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+StudyFlow is designed to help students organize their academic life, manage tasks, stay productive, and build better study habits.
 
-A few resources to get you started if this is your first Flutter project:
+## Technology
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Riverpod
+- GoRouter
+- Firebase Authentication
+- SharedPreferences
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Status
+
+🚧 Currently under development as part of a Flutter internship project.
